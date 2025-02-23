@@ -1,6 +1,7 @@
-![amigo_secreto](https://github.com/user-attachments/assets/a385755c-4a9a-49eb-a810-634f800ad45c)
 
 # 🎁 Amigo Secreto - Java
+
+![amigo_secreto_github_resized](https://github.com/user-attachments/assets/acf31708-51d8-42ad-bcd5-5e0c6f580b7a)
 
 ## 📌 Sobre o Projeto
 
